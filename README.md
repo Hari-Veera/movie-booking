@@ -126,22 +126,6 @@ API: http://localhost:5000/api
 
 ---
 
-## 🧪 Scripts
-
-**Backend**  
-- npm run dev → dev with nodemon  
-- npm run start → prod  
-- npm run lint  
-- npm run test  
-
-**Frontend**  
-- npm run dev | start  
-- npm run build  
-- npm run preview  
-- npm run lint  
-
----
-
 ## 🧭 API Overview
 
 Base URL: `/api`
@@ -165,7 +149,7 @@ Base URL: `/api`
 
 ## 🪑 Real-Time Seats
 
-- Seat availability fetched at intervals/websocket (if enabled)  
+- Seat availability fetched at intervals/websocket 
 - Seats are **held** for a short window during checkout to prevent oversell  
 - Expired holds auto-release  
 
