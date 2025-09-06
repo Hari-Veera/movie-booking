@@ -171,3 +171,15 @@ Base URL: `/api`
 - High contrast color scheme  
 
 ---
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](client/public/screenshots/home.png)
+
+### Admin Page
+![Admin Page](client/public/screenshots/admin.png)
+
+
+---
+
